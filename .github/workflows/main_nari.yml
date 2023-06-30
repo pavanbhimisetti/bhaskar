@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'nari'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2B34BD71D0B484FADC61CCD3C537A5F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B12300990984688B67502EE6BCEB3F2 }}
           package: .
